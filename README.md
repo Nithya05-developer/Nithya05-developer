@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithya-developer
+- 👋 Hi, I’m @Nithyakalyani-developer
 - 👀 I’m interested in Java programming 
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on new things related to java
