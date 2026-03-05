@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nithyakalyani.CT
-- 👀 I’m interested in Java programming and front-end technologies like HTML,CSS & JS 
+- 👀 I’m interested in Python programming and front-end technologies like HTML,CSS & JS 
 - 🌱 And currently doing projects based on the above technologies
 - 💞️ I’m looking to collaborate on new things related to my skills
 
